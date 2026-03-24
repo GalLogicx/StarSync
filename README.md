@@ -15,9 +15,9 @@
 ---
 
 ### 🎨 Визуальное совершенство
-**StarSync** — это не просто скрипт. Это полноценное приложение с глубокой кастомизацией:
+**StarSync** — это полноценное приложение с глубокой кастомизацией:
 *   **12 авторских тем оформления:** От глубокой «Бездны» до нежной «Сакуры».
-*   **Динамический интерфейс:** Плавные анимации, кастомный прогресс-бар и звуковая эстетика.
+*   **Динамический интерфейс:** Приятные дизайн, прогресс-бар.
 *   **Drag-and-Drop:** Просто перетащите папку в окно программы - остальное сделает алгоритм.
 
 ### ⚙️ Возможности
@@ -62,10 +62,11 @@ Bring order to the chaos of your folders with a single movement.
 ---
 
 ### 🎨 Visual Excellence
-**StarSync** — is not just a script. It is a full-fledged application with deep customization:
+**StarSync** — is a full-fledged application with deep customization:
 *   **12 custom themes:** From the deep "Abyss" to the delicate "Sakura".
-*   **Dynamic Interface:** Smooth animations, custom progress bar, and sound aesthetics.
+*   **Dynamic Interface:** Pleasing design and progress bar.
 *   **Drag-and-Drop:** Just drag a folder into the program window - the algorithm will do the rest.
+
 
 ### ⚙️ Features
 - **Multilingual:** Full support for **RU, EN, ES, ZH**.
