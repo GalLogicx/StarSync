@@ -4,8 +4,6 @@
 
 <h1 align="center">GalLogicx — StarSync v1.0</h1>
 
-<p align="center">
-  <img src="https://img.shields.io" alt="Python Version">
 
 </p>
 
