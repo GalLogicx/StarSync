@@ -26,7 +26,7 @@
 - **Интеллектуальный контроль:** Автоматическое переименование дубликатов (никакой потери данных).
 - **Логирование:** Подробный отчет о каждом перемещенном файле.
 <p align="center">
-  <img src="assets/preview.png" width="600" alt="StarSync Preview">
+  <img src="assets/1.jpg" width="600" alt="StarSync Preview">
 </p>
 ---
 
@@ -76,7 +76,7 @@ Bring order to the chaos of your folders with a single movement.
 - **Intelligent Control:** Automatic duplicate renaming (no data loss).
 - **Logging:** Detailed report on every moved file.
 <p align="center">
-  <img src="assets/preview.png" width="600" alt="StarSync Preview">
+  <img src="assets/1.jpg" width="600" alt="StarSync Preview">
 </p>
 ---
 
