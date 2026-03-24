@@ -79,12 +79,12 @@ Bring order to the chaos of your folders with a single movement.
 ### 🚀 Quick Start
 
 #### For Users:
-1. Go to https://github.com.
+1. Go to https://github.com/GalLogicx/StarSync
 2. Download **StarSync.exe**.
 3. Run the file. *No installation required.*
 
 #### For Developers:
-1. Clone the repository: https://github.com
+1. Clone the repository: https://github.com/GalLogicx/StarSync
 2. Install dependencies:
 pip install -r requirements.txt
 3. Run the project:
