@@ -6,8 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io" alt="Python Version">
-  <img src="https://img.shields.io" alt="OS">
-  <img src="https://img.shields.io" alt="License">
+
 </p>
 
 <p align="center">
