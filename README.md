@@ -45,6 +45,21 @@ python main.py
 © 2026 **GalLogicx**. Сделано с любовью и звездами.✨
 
 ---
+<p align="center">
+  <img src="assets/logo.png" width="160" alt="GalLogicx Logo">
+</p>
+
+<h1 align="center">GalLogicx — StarSync v1.0</h1>
+
+
+</p>
+
+<p align="center">
+  <b>An aesthetic and powerful utility for automatic file sorting.</b><br>
+Bring order to the chaos of your folders with a single movement.
+</p>
+
+---
 
 ### 🎨 Visual Excellence
 **StarSync** — is not just a script. It is a full-fledged application with deep customization:
