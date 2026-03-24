@@ -25,7 +25,9 @@
 - **Гибкая логика:** Сортировка по категориям (Фото, Видео, Документы и тд.) или по датам (День/Месяц/Год).
 - **Интеллектуальный контроль:** Автоматическое переименование дубликатов (никакой потери данных).
 - **Логирование:** Подробный отчет о каждом перемещенном файле.
-
+<p align="center">
+  <img src="assets/preview.png" width="600" alt="StarSync Preview">
+</p>
 ---
 
 ### 🚀 Быстрый старт
@@ -73,7 +75,9 @@ Bring order to the chaos of your folders with a single movement.
 - **Flexible Logic:** Sorting by categories (Photos, Videos, Documents, etc.) or by dates (Day/Month/Year).
 - **Intelligent Control:** Automatic duplicate renaming (no data loss).
 - **Logging:** Detailed report on every moved file.
-
+<p align="center">
+  <img src="assets/preview.png" width="600" alt="StarSync Preview">
+</p>
 ---
 
 ### 🚀 Quick Start
