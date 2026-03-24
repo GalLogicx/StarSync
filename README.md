@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Icon.png" width="160" alt="GalLogicx Logo">
+  <img src="assets/icon.png" width="160" alt="GalLogicx Logo">
 </p>
 
 <h1 align="center">GalLogicx — StarSync v1.0</h1>
@@ -46,7 +46,7 @@ python main.py
 
 ---
 <p align="center">
-  <img src="assets/Icon.png" width="160" alt="GalLogicx Logo">
+  <img src="assets/icon.png" width="160" alt="GalLogicx Logo">
 </p>
 
 <h1 align="center">GalLogicx — StarSync v1.0</h1>
